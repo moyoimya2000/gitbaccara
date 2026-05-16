@@ -31,7 +31,6 @@ function mychfont()
 if(a==1) { document.getElementById("zapoln").style.fontFamily = "Monofur"; 
 return a=0; }
 else{ document.getElementById("zapoln").style.fontFamily = "Whipsmart"; 
-
 return a=1; }
 }
 var a1;

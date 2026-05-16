@@ -1,10 +1,10 @@
-@font-face { font-family: "Avatar"; src: url("Avatar.ttf") format("truetype"); font-style: normal; font-weight: normal; }
+@font-face { font-family: "Monofur"; src: url("Monofur.ttf") format("truetype"); font-style: normal; font-weight: normal; }
+@font-face { font-family: "Whipsmart"; src: url("Whipsmart.ttf") format("truetype"); font-style: normal; font-weight: normal; }
 @font-face { font-family: "Marta"; src: url("Marta.ttf") format("truetype"); font-style: normal; font-weight: normal; }
 @font-face { font-family: "MonAmourOne"; src: url("MonAmourOne.ttf") format("truetype"); font-style: normal; font-weight: normal; }
-@font-face { font-family: "Monofur"; src: url("Monofur.ttf") format("truetype"); font-style: normal; font-weight: normal; }
-@font-face { font-family: "Pompadur"; src: url("Pompadur.ttf") format("truetype"); font-style: normal; font-weight: normal; }
 @font-face { font-family: "UKIJQolyazma"; src: url("UKIJQolyazma.ttf") format("truetype"); font-style: normal; font-weight: normal; }
-@font-face { font-family: "Whipsmart"; src: url("Whipsmart.ttf") format("truetype"); font-style: normal; font-weight: normal; }
+@font-face { font-family: "Avatar"; src: url("Avatar.ttf") format("truetype"); font-style: normal; font-weight: normal; }
+@font-face { font-family: "Pompadur"; src: url("Pompadur.ttf") format("truetype"); font-style: normal; font-weight: normal; }
 
 * { margin: 0; padding: 0; 
 box-sizing: border-box;
@@ -55,7 +55,7 @@ a{text-decoration: none;}
 .btn:hover{color: greenyellow;}
 .hide{display: none;}
 
-.mx-auto{
+.mx-auto{ font-family: "Pompadur";
 position: absolute; 
 bottom: 0;
 align-items: center;
