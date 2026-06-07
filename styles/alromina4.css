@@ -35,6 +35,7 @@ margin-right: 3px;
 border: 1px dashed #b90d0d;
 border-radius: 15px;
 width: 90px;
+height: 60px;
 }
 .container-fluid .video-list .vid:hover{
 color: #eee; cursor: pointer;
